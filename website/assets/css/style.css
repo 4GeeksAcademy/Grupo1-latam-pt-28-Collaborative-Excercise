@@ -1,3 +1,19 @@
 body{
     background: #BDBDBD;
 }
+
+.bg-image {
+    background-image: url("../img/bg.jpg");
+
+    height:80vh;
+    background-position: bottom;
+    background-size: cover;
+}
+
+.hero1 {
+    font-size: 8rem;
+}
+
+.hero2 {
+    font-size: 5rem;
+}
