@@ -5,15 +5,17 @@ body{
 .bg-image {
     background-image: url("../img/bg.jpg");
 
-    height:80vh;
+    height:75vh;
     background-position: bottom;
     background-size: cover;
 }
 
 .hero1 {
-    font-size: 8rem;
+   /*  font-size: 8rem; */
+    max-width: 100%;
 }
 
 .hero2 {
-    font-size: 5rem;
+    /* font-size: 5rem; */
+    max-width: 100%;
 }
